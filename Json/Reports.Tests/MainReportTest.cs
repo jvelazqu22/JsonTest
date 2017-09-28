@@ -10,20 +10,6 @@ namespace Reports.Tests
     public class MainReportTest
     {
         [TestMethod]
-        public void GetRawData_FileExists_ReadData()
-        {
-            // Arrange 
-            var inputPath = @"c:\temp\Json\ConsoleJob\Input\";
-            List<Person> results = new List<Person>();
-
-            // Act
-            results = new MainReport().GetRawData(inputPath);
-
-            // Assert
-            Assert.IsTrue(results.Any());
-        }
-
-        [TestMethod]
         public void Sort_3Records_SortByAgeLNameAndFname()
         {
             // Arrange 
