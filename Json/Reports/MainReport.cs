@@ -4,6 +4,7 @@ using System.Linq;
 using Domain;
 using Newtonsoft.Json;
 using System.IO;
+using System.Reflection;
 
 namespace Reports
 {
@@ -11,8 +12,8 @@ namespace Reports
     {
         public void RunReportAndSaveToFile()
         {
-            var inputPath = @"c:\temp\Json\ConsoleJob\Input\";
-            var outputPath = @"c:\temp\Json\ConsoleJob\Output\";
+            var inputPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Input\code_test.json");
+            var outputPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Output\Results.txt");
             var list = GetRawData(inputPath);
             var allPeople = GetAllPeople(list);
             var totalNumberOfPeople = $"total # of people: {allPeople.Count}";
@@ -25,15 +26,12 @@ namespace Reports
 
         public List<Person> GetRawData(string path)
         {
-            string pathAndFileName = $"{path}code_test.json";
-            var jsonstring = File.ReadAllText(pathAndFileName);
+            var jsonstring = File.ReadAllText(path);
             return JsonConvert.DeserializeObject<List<Person>>(jsonstring);
         }
 
         private void SaveResultsToFile(List<string> dataToWrite, string path)
         {
-            path += "Results.txt";
-
             // This text is added only once to the file.
             if (!File.Exists(path)) File.WriteAllLines(path, dataToWrite);
         }

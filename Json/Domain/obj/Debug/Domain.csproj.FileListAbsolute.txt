@@ -2,4 +2,3 @@ C:\Temp\Json\Domain\bin\Debug\Domain.dll
 C:\Temp\Json\Domain\bin\Debug\Domain.pdb
 C:\Temp\Json\Domain\obj\Debug\Domain.dll
 C:\Temp\Json\Domain\obj\Debug\Domain.pdb
-C:\Temp\Json\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

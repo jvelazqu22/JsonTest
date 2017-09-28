@@ -10,3 +10,5 @@ C:\Temp\Json\ConsoleJob\bin\Debug\Newtonsoft.Json.xml
 C:\Temp\Json\ConsoleJob\obj\Debug\ConsoleJob.csprojResolveAssemblyReference.cache
 C:\Temp\Json\ConsoleJob\obj\Debug\ConsoleJob.exe
 C:\Temp\Json\ConsoleJob\obj\Debug\ConsoleJob.pdb
+C:\Temp\Json\ConsoleJob\bin\Debug\Input\code_test.json
+C:\Temp\Json\ConsoleJob\bin\Debug\Output\Results.txt
