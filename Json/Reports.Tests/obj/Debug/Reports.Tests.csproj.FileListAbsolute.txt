@@ -1,0 +1,11 @@
+C:\Temp\Json\Reports.Tests\bin\Debug\Reports.Tests.dll
+C:\Temp\Json\Reports.Tests\bin\Debug\Reports.Tests.pdb
+C:\Temp\Json\Reports.Tests\bin\Debug\Domain.dll
+C:\Temp\Json\Reports.Tests\bin\Debug\Reports.dll
+C:\Temp\Json\Reports.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\Json\Reports.Tests\bin\Debug\Domain.pdb
+C:\Temp\Json\Reports.Tests\bin\Debug\Reports.pdb
+C:\Temp\Json\Reports.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\Json\Reports.Tests\obj\Debug\Reports.Tests.csprojResolveAssemblyReference.cache
+C:\Temp\Json\Reports.Tests\obj\Debug\Reports.Tests.dll
+C:\Temp\Json\Reports.Tests\obj\Debug\Reports.Tests.pdb

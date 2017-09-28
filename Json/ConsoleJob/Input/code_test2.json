@@ -1,0 +1,49 @@
+[
+  {
+    "firstName": "Henderson",
+    "lastName": "Ray",
+    "isActive": true,
+    "age": 16,
+    "gender": "male",
+    "eyeColor": "blue",
+    "friends": [
+      "Mccormick Hale"
+    ]
+  },
+  {
+    "firstName": "Lorna",
+    "lastName": "Palmer",
+    "isActive": true,
+    "age": 32,
+    "gender": "female",
+    "eyeColor": "blue",
+    "friends": [
+      "Claudette Britt"
+    ]
+  },
+  {
+    "firstName": "Mariana",
+    "lastName": "Hicks",
+    "isActive": false,
+    "age": 18,
+    "gender": "female",
+    "eyeColor": "green",
+    "friends": [
+      "Adrian Morin",
+      "Bright Young"
+    ]
+  },
+  {
+    "firstName": "Carver",
+    "lastName": "Aguilar",
+    "isActive": false,
+    "age": 58,
+    "gender": "male",
+    "eyeColor": "blue",
+    "friends": [
+      "Regina Spears",
+      "Shepherd Ashley",
+      "Boone Franks"
+    ]
+  }
+]

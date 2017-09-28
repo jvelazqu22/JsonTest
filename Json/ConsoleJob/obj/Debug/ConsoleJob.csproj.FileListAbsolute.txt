@@ -1,0 +1,12 @@
+C:\Temp\Json\ConsoleJob\bin\Debug\ConsoleJob.exe.config
+C:\Temp\Json\ConsoleJob\bin\Debug\ConsoleJob.exe
+C:\Temp\Json\ConsoleJob\bin\Debug\ConsoleJob.pdb
+C:\Temp\Json\ConsoleJob\bin\Debug\Reports.dll
+C:\Temp\Json\ConsoleJob\bin\Debug\Domain.dll
+C:\Temp\Json\ConsoleJob\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\Json\ConsoleJob\bin\Debug\Reports.pdb
+C:\Temp\Json\ConsoleJob\bin\Debug\Domain.pdb
+C:\Temp\Json\ConsoleJob\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\Json\ConsoleJob\obj\Debug\ConsoleJob.csprojResolveAssemblyReference.cache
+C:\Temp\Json\ConsoleJob\obj\Debug\ConsoleJob.exe
+C:\Temp\Json\ConsoleJob\obj\Debug\ConsoleJob.pdb

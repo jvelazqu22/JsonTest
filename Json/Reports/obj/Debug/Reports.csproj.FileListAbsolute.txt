@@ -1,0 +1,9 @@
+C:\Temp\Json\Reports\bin\Debug\Reports.dll
+C:\Temp\Json\Reports\bin\Debug\Reports.pdb
+C:\Temp\Json\Reports\bin\Debug\Domain.dll
+C:\Temp\Json\Reports\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\Json\Reports\bin\Debug\Domain.pdb
+C:\Temp\Json\Reports\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\Json\Reports\obj\Debug\Reports.csprojResolveAssemblyReference.cache
+C:\Temp\Json\Reports\obj\Debug\Reports.dll
+C:\Temp\Json\Reports\obj\Debug\Reports.pdb
