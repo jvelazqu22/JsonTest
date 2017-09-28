@@ -32,8 +32,7 @@ namespace Reports
 
         private void SaveResultsToFile(List<string> dataToWrite, string path)
         {
-            // This text is added only once to the file.
-            if (!File.Exists(path)) File.WriteAllLines(path, dataToWrite);
+            File.WriteAllLines(path, dataToWrite);
         }
 
         private List<string> GetFinalResult(List<string> allPeople, string totalNumberOfPeopleString, List<string> peopleWithBlueEyesOver30, string totalNumberOfpeopleWithBlueEyesOver30String, List<string> peopleWithLessThanThreeFriends)
